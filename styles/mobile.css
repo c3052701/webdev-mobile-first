@@ -1,0 +1,16 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+}
+main,
+footer{
+    padding: 0 15px;
+}
+#logo {
+    text-align: center;
+}
